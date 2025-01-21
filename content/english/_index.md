@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Taking the headache out of Home Buying and Selling, One Step at a Time"
+  content: "Whether you’re a seasoned homeowner or taking your first step into the market, our team is here to guide you every step of the way so you can focus on what matters most... Your next chapter."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Let's Connect!"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
