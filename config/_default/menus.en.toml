@@ -7,14 +7,14 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About Us"
-url = "/about"
+name = "Meet the Team"
+url = "/team"
 weight = 2
 
 
 [[main]]
 weight = 4
-name = "Services"
+name = "How Can We Help?"
 
 [[main]]
 parent = "Services"
@@ -27,13 +27,13 @@ name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Services"
-name = "Authors"
-url = "/authors"
+parent = "How Can We Help?"
+name = "Sell Your Home"
+url = "/listings"
 
 [[main]]
-parent = "Services"
-name = "Categories"
+parent = "How Can We Help?"
+name = "Find Your Home"
 url = "/categories"
 
 [[main]]

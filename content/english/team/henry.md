@@ -1,8 +1,8 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
+title: Henry Chiu
+email: henry@onerealtyteam.com
 image: "/images/avatar.png"
-description: this is meta description
+description: Broker and leader of the pack.
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,6 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+<b>Broker / Owner of One Realty Inc.</b>  
+<hr/>
+Leader of the pack.
