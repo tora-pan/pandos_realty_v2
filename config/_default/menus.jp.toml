@@ -1,0 +1,63 @@
+############# Japanese navigation ##############
+
+# main menu
+[[main]]
+name = "ホーム"
+url = "/"
+weight = 1
+
+[[main]]
+name = "自己紹介"
+url = "/team"
+weight = 2
+
+
+[[main]]
+weight = 4
+name = "How Can We Help?"
+
+[[main]]
+parent = "How Can We Help?"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "How Can We Help?"
+name = "Contact"
+url = "/contact"
+
+[[main]]
+parent = "How Can We Help?"
+name = "Sell Your Home"
+url = "/listings"
+
+[[main]]
+parent = "How Can We Help?"
+name = "Find Your Home"
+url = "/categories"
+
+[[main]]
+parent = "Services"
+name = "404 Page"
+url = "/404"
+
+[[main]]
+parent = "Services"
+name = "Comment Policy"
+url = "/comment-policy"
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Contact Us"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
